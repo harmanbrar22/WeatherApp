@@ -13,10 +13,10 @@ app.use(express.static("public"));
 
 
 
-const weatherAPI="https://api.openweathermap.org/data/2.5/weather";
-const API_key="fe6ec069378bd2ea302cbd794a817076";
-const geoAPI="http://api.openweathermap.org/geo/1.0/direct?q=cityname&appid={API key}";
-const API_KEY_IP="e9dd55386d8a82";
+const weatherAPI="your API";
+const API_key="your API";
+const geoAPI="your API";
+const API_KEY_IP="your API";
 const uni="metric";
 
 
